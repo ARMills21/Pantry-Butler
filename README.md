@@ -1,2 +1,2 @@
 # Pantry-Butler
-This app is to help organize and keep track of what food you currently have in stock. This is to help you formulate a plan for what is for dinner. 
+This app is to help organize your food life. With the help of this app you will know what you have at home, what is on your grocery list, and you can even look up recipes. This app is to help make the age old question of "Whats for dinner?" easier to answer. 
